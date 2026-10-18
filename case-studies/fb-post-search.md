@@ -1,6 +1,6 @@
 # Design Post Search (Facebook / Twitter search)
 
-Source: Hello Interview breakdown (full) · Patterns: scaling reads, scaling writes, search · Difficulty: hard
+Source: full breakdown · Patterns: scaling reads, scaling writes, search · Difficulty: hard
 
 ## Scope
 - **FR:** create and like posts; search posts by keyword; sort results by recency or like count. Below the line: fuzzy matching, personalization, privacy filtering, images.

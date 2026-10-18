@@ -1,6 +1,6 @@
 # Design a Collaborative Editor (Google Docs)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: real-time updates · Difficulty: hard
+Source: outline only; answers are independent · Patterns: real-time updates · Difficulty: hard
 
 ## Scope
 - **FR:** create documents; multiple users edit concurrently; see others' changes in real time; see others' cursors and presence. Below the line: comments, permissions UI, offline mode, rich formatting detail.

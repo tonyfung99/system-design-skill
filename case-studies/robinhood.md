@@ -1,6 +1,6 @@
 # Design a Stock Brokerage (Robinhood)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: real-time updates, consistency · Difficulty: hard
+Source: outline only; answers are independent · Patterns: real-time updates, consistency · Difficulty: hard
 
 ## Background
 A broker doesn't run the exchange: it receives market data (price feed) and routes orders to an exchange/market maker via a FIX-style external API, which reports fills asynchronously.

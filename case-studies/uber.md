@@ -1,6 +1,6 @@
 # Design Ride Sharing (Uber / Lyft)
 
-Source: Hello Interview breakdown (full) · Patterns: proximity, contention, real-time updates, multi-step processes · Difficulty: hard
+Source: full breakdown · Patterns: proximity, contention, real-time updates, multi-step processes · Difficulty: hard
 
 ## Scope
 - **FR:** rider enters pickup + destination → fare estimate; requests a ride; matched with a nearby available driver; driver accepts/declines and navigates. Below the line: ratings, scheduled rides, pooling, payments detail.

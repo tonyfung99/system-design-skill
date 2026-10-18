@@ -1,6 +1,6 @@
 # Design a Photo/Video Feed (Instagram)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: scaling reads, large blobs, long-running tasks · Difficulty: medium
+Source: outline only; answers are independent · Patterns: scaling reads, large blobs, long-running tasks · Difficulty: medium
 
 ## Scope
 - **FR:** create posts with photos/videos + caption; follow users; chronological feed of followed users. Below the line: likes/comments, stories, explore, DMs.

@@ -1,6 +1,6 @@
 # Design an Online Judge (LeetCode)
 
-Source: Hello Interview breakdown (full) · Patterns: long-running tasks · Difficulty: medium
+Source: full breakdown · Patterns: long-running tasks · Difficulty: medium
 
 ## Scope
 - **FR:** browse problems; view a problem and code in multiple languages; submit and get feedback; live leaderboard for competitions. Below the line: auth details, discussion, plagiarism.

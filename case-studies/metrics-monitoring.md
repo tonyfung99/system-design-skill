@@ -1,6 +1,6 @@
 # Design Metrics Monitoring & Alerting (Datadog / Prometheus)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: scaling writes, scaling reads · Difficulty: hard
+Source: outline only; answers are independent · Patterns: scaling writes, scaling reads · Difficulty: hard
 
 ## Scope
 - **FR:** ingest metrics from services; query and visualize on dashboards; define alert rules with thresholds; notify when alerts fire. Below the line: logs, traces, anomaly detection ML.

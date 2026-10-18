@@ -1,6 +1,6 @@
 # Design a News Feed (Facebook / Twitter)
 
-Source: Hello Interview breakdown (full) · Patterns: scaling reads, fan-out · Difficulty: medium
+Source: full breakdown · Patterns: scaling reads, fan-out · Difficulty: medium
 
 ## Scope
 - **FR:** create posts; follow/friend users; view feed of followed users' posts, reverse chronological; paginate. Below the line: ranking, comments, likes, media.

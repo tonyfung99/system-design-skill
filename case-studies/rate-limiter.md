@@ -1,6 +1,6 @@
 # Design a Distributed Rate Limiter
 
-Source: Hello Interview breakdown (full) · Patterns: scaling writes, contention, scaling reads · Difficulty: medium
+Source: full breakdown · Patterns: scaling writes, contention, scaling reads · Difficulty: medium
 
 ## Scope
 - **FR:** identify clients by user id, IP, or API key; enforce configurable rules (e.g., 100 req/min/user, per endpoint); reject with 429 + headers (`X-RateLimit-Remaining`, `Retry-After`/reset). Below the line: billing quotas, analytics.

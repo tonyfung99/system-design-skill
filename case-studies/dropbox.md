@@ -1,6 +1,6 @@
 # Design File Storage & Sync (Dropbox / Google Drive)
 
-Source: Hello Interview breakdown (full) · Patterns: large blobs · Difficulty: easy
+Source: full breakdown · Patterns: large blobs · Difficulty: easy
 
 ## Scope
 - **FR:** upload from any device; download from any device; share files with users and view shared files; automatic sync across devices. Below the line: version history UI, editing, quotas.

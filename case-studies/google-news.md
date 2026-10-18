@@ -1,6 +1,6 @@
 # Design a News Aggregator (Google News)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: scaling reads, long-running tasks · Difficulty: medium
+Source: outline only; answers are independent · Patterns: scaling reads, long-running tasks · Difficulty: medium
 
 ## Scope
 - **FR:** view an aggregated feed of articles from thousands of publishers worldwide; infinite scroll; click through to the publisher. Below the line (bonus): category feeds, personalization.

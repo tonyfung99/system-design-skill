@@ -1,6 +1,6 @@
 # Design a Price Tracker (CamelCamelCamel)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: scaling writes, long-running tasks, notifications · Difficulty: medium
+Source: outline only; answers are independent · Patterns: scaling writes, long-running tasks, notifications · Difficulty: medium
 
 ## Scope
 - **FR:** view price history for Amazon products (website + Chrome extension); subscribe to price-drop alerts with thresholds. Below the line: other retailers, deal pages.

@@ -1,6 +1,6 @@
 # Design a Distributed Cache (Redis/Memcached-like)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: infrastructure, scaling reads · Difficulty: medium
+Source: outline only; answers are independent · Patterns: infrastructure, scaling reads · Difficulty: medium
 
 ## Scope
 - **FR:** `set/get/delete` key-value pairs; per-key TTL; LRU eviction. Below the line: complex data types, persistence, transactions.

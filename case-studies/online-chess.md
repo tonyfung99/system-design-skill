@@ -1,6 +1,6 @@
 # Design Online Chess (chess.com / lichess)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: real-time updates, contention · Difficulty: hard
+Source: outline only; answers are independent · Patterns: real-time updates, contention · Difficulty: hard
 
 ## Scope
 - **FR:** skill-based matchmaking and game start; real-time play; global leaderboard with own rank. Below the line: chat, analysis engine, tournaments, spectators.

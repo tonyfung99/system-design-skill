@@ -1,6 +1,6 @@
 # Design a Dating App (Tinder)
 
-Source: Hello Interview breakdown (full) · Patterns: contention, proximity, scaling reads · Difficulty: medium
+Source: full breakdown · Patterns: contention, proximity, scaling reads · Difficulty: medium
 
 ## Scope
 - **FR:** profile with preferences (age range, interests, max distance); view a stack of candidates matching preferences and distance; swipe yes/no; mutual yes → match notification. Below the line: chat, photo upload pipeline, premium features.

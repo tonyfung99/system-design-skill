@@ -1,6 +1,6 @@
 # Design a Chat App (WhatsApp / Messenger)
 
-Source: Hello Interview breakdown (full) · Patterns: real-time updates · Difficulty: medium
+Source: full breakdown · Patterns: real-time updates · Difficulty: medium
 
 ## Scope
 - **FR:** group chats (≤ 100 participants); send/receive messages; receive messages sent while offline (≤ 30 days); media attachments. Below the line: calls, E2E key management detail, reactions.

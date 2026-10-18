@@ -1,6 +1,6 @@
 # Design a URL Shortener (Bitly)
 
-Source: Hello Interview breakdown (full) · Patterns: scaling reads · Difficulty: easy
+Source: full breakdown · Patterns: scaling reads · Difficulty: easy
 
 ## Scope
 - **FR:** create short URL from long URL (optional custom alias, optional expiry); redirect short → long. Below the line: analytics, accounts, link management.

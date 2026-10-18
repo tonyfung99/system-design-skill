@@ -1,6 +1,6 @@
 # Design an LLM Chat Service (ChatGPT)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: real-time updates, long-running tasks · Difficulty: hard
+Source: outline only; answers are independent · Patterns: real-time updates, long-running tasks · Difficulty: hard
 
 ## Scope
 - **FR:** send a prompt and receive a streamed AI response; view past chats and resume with context carried across turns. Below the line: tools/agents, file uploads, voice, sharing.

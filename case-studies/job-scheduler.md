@@ -1,6 +1,6 @@
 # Design a Distributed Job Scheduler
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: long-running tasks, scaling writes · Difficulty: medium
+Source: outline only; answers are independent · Patterns: long-running tasks, scaling writes · Difficulty: medium
 
 ## Scope
 - **FR:** schedule jobs to run immediately, at a future time, or on a recurring (cron) schedule; monitor job status/history. Below the line: DAG dependencies, priorities, cancellation UI.

@@ -1,6 +1,6 @@
 # Design Local Delivery (Gopuff)
 
-Source: Hello Interview breakdown (full) · Patterns: scaling reads, contention, proximity · Difficulty: easy
+Source: full breakdown · Patterns: scaling reads, contention, proximity · Difficulty: easy
 
 ## Scope
 - **FR:** query availability of items deliverable within 1 hour (union of inventory across nearby distribution centers); order multiple items at once. Below the line: delivery routing, payments detail.

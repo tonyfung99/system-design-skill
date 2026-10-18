@@ -1,6 +1,6 @@
 # Design a Web Crawler
 
-Source: Hello Interview breakdown (full) · Patterns: long-running tasks, scaling writes · Difficulty: hard
+Source: full breakdown · Patterns: long-running tasks, scaling writes · Difficulty: hard
 
 ## Scope
 - **FR:** crawl the web from seed URLs; extract and store page text for later processing (e.g., LLM training). Below the line: rendering JS-heavy pages, ranking, indexing.

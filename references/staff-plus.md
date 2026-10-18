@@ -1,8 +1,8 @@
 # The Staff+ Lens
 
-Staff-level design isn't a senior answer done faster. It's a different conversation, usually with a staff+ interviewer looking for evidence you can own the hardest technical risk of a product area. Part A is Hello Interview's staff guidance; Part B extends it with the dimensions staff+ engineers are expected to bring unprompted.
+Staff-level design isn't a senior answer done faster. It's a different conversation, usually with a staff+ interviewer looking for evidence you can own the hardest technical risk of a product area. Part A is the source course's staff guidance; Part B extends it with the dimensions staff+ engineers are expected to bring unprompted.
 
-## Part A — Five keys (Hello Interview)
+## Part A — Five keys
 
 1. **Communicate at the interviewer's level.** Don't explain first-year material (what a load balancer does, what an index is) unless asked. Over-explaining wastes time, sounds freshly learned, and signals you don't usually talk with staff peers. Maximize bandwidth: named patterns, precise vocabulary, numbers.
 2. **Find the crux.** Most of any problem is ordinary (CRUD, a search box, a workflow at modest traffic). Grok it fast, say so ("standard CRUD service, moving on"), **earmark** the hard parts ("keeping hour-long transactions fault tolerant is tricky; coming back to it"), and spend your time there.

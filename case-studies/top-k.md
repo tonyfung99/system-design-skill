@@ -1,6 +1,6 @@
 # Design Top-K Videos by Views (YouTube Top K / Trending)
 
-Source: Hello Interview breakdown (full) · Patterns: scaling writes, scaling reads, streaming · Difficulty: hard
+Source: full breakdown · Patterns: scaling writes, scaling reads, streaming · Difficulty: hard
 
 ## Scope
 - **FR:** query top K (≤ 1,000) videos for tumbling windows of 1 hour, 1 day, 1 month, and all-time.

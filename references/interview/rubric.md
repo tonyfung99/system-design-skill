@@ -1,6 +1,6 @@
 # Rubric
 
-Company rubrics use different words but converge on four dimensions (Hello Interview's framing). Score each 1–4 **relative to the target level**, citing evidence. Then decide the level.
+Company rubrics use different words but converge on four dimensions. Score each 1–4 **relative to the target level**, citing evidence. Then decide the level.
 
 Scale: **1** clear gap · **2** below bar (some signal, significant gaps) · **3** at bar · **4** above bar (strong, would raise the hire bar).
 

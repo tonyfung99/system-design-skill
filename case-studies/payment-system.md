@@ -1,6 +1,6 @@
 # Design a Payment System (Stripe-like)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: multi-step processes · Difficulty: hard
+Source: outline only; answers are independent · Patterns: multi-step processes · Difficulty: hard
 
 ## Scope
 - **FR:** merchants initiate payment requests; customers pay with credit/debit cards; payment status available (and pushed via webhooks — bonus). Below the line: refunds/disputes detail, payouts, FX, subscriptions.

@@ -1,6 +1,6 @@
 # Design a Flash Sale
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: contention, scaling writes, real-time updates · Difficulty: hard
+Source: outline only; answers are independent · Patterns: contention, scaling writes, real-time updates · Difficulty: hard
 
 ## Scope
 - **FR:** view the flash-sale item; secure/reserve an available unit for a limited time while the sale is active; complete payment to purchase. Below the line: multi-item carts, recommendations.

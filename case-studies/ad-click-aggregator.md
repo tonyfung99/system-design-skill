@@ -1,6 +1,6 @@
 # Design an Ad Click Aggregator
 
-Source: Hello Interview breakdown (full) · Patterns: scaling writes, stream processing · Difficulty: hard
+Source: full breakdown · Patterns: scaling writes, stream processing · Difficulty: hard
 
 ## Scope
 - **FR:** user clicks an ad and is redirected to the advertiser; advertisers query click metrics over time at ≥ 1-minute granularity. Below the line: ad targeting, serving, billing, fraud ML.

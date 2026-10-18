@@ -1,6 +1,6 @@
 # Design Event Ticketing (Ticketmaster)
 
-Source: Hello Interview breakdown (full) · Patterns: contention, scaling reads, real-time updates · Difficulty: medium
+Source: full breakdown · Patterns: contention, scaling reads, real-time updates · Difficulty: medium
 
 ## Scope
 - **FR:** view events; search events; book tickets. Below the line: view my bookings, admin event creation, dynamic pricing.

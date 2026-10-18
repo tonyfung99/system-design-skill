@@ -1,6 +1,6 @@
 # Design Activity Tracking (Strava)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: scaling writes, real-time updates · Difficulty: medium
+Source: outline only; answers are independent · Patterns: scaling writes, real-time updates · Difficulty: medium
 
 ## Scope
 - **FR:** start/pause/stop/save runs and rides; see live stats (route, distance, time) during the activity; view own and friends' completed activities. Below the line: segments, kudos/comments, training plans.

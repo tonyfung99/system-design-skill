@@ -1,6 +1,6 @@
 # Design a Video Platform (YouTube / Netflix)
 
-Source: Hello Interview breakdown (full) · Patterns: large blobs, long-running tasks, multi-step · Difficulty: medium
+Source: full breakdown · Patterns: large blobs, long-running tasks, multi-step · Difficulty: medium
 
 ## Scope
 - **FR:** upload videos; watch (stream) videos. Below the line: comments, recommendations, search, live streaming.

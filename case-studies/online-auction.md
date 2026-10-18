@@ -1,6 +1,6 @@
 # Design an Online Auction (eBay)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: contention, real-time updates · Difficulty: medium
+Source: outline only; answers are independent · Patterns: contention, real-time updates · Difficulty: medium
 
 ## Scope
 - **FR:** post an item with starting price and end time; bid (accepted only if higher than current highest); view an auction with the current highest bid. Below the line: proxy/auto-bidding, payments, search.

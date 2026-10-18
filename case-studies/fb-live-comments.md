@@ -1,6 +1,6 @@
 # Design Live Comments (Facebook Live / Twitch chat)
 
-Source: Hello Interview breakdown (full) · Patterns: real-time updates · Difficulty: medium
+Source: full breakdown · Patterns: real-time updates · Difficulty: medium
 
 ## Scope
 - **FR:** post comments on a live video; see new comments in near real time; see comments posted before joining. Below the line: replies, reactions, moderation detail.

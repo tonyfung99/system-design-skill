@@ -1,13 +1,13 @@
 # Design a Notification System
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: multi-step processes, scaling writes · Difficulty: medium
+Source: outline only; answers are independent · Patterns: multi-step processes, scaling writes · Difficulty: medium
 
 ## Scope
 - **FR:** upstream services send a notification to a user (now or scheduled) over push/SMS/email/in-app; send **campaigns** to user segments; users set preferences (channels, categories, quiet hours, unsubscribe). Below the line: template editor UI, analytics dashboards.
 - **NFR:** an accepted notification is **never dropped**; high-priority (OTP, security, transactional) delivered < 5 s even during a campaign blast; no duplicates in practice; campaigns to 100M+ users; provider rate limits respected.
 
 ## Crux
-Durability from acceptance to provider handoff, priority isolation so a 100M-user campaign can't delay an OTP, and dedupe on top of at-least-once delivery. (Hello Interview deliberately uses queues rather than Temporal here because the delivery/retry machinery *is* the interview.)
+Durability from acceptance to provider handoff, priority isolation so a 100M-user campaign can't delay an OTP, and dedupe on top of at-least-once delivery. (The reference design deliberately uses queues rather than Temporal here because the delivery/retry machinery *is* the interview.)
 
 ## Skeleton
 Entities: Notification (id, user, type, priority, template, scheduled_at, status), Preference, Campaign, DeliveryAttempt, DeviceToken. API: `POST /notifications {idempotencyKey, userId, template, priority, sendAt?}` → 202 + id; `POST /campaigns {segment, template, schedule}`; `PUT /users/{id}/preferences`.

@@ -1,6 +1,6 @@
 # Design Business Search & Reviews (Yelp)
 
-Source: Hello Interview outline (premium); answers are independent · Patterns: scaling reads, proximity · Difficulty: easy
+Source: outline only; answers are independent · Patterns: scaling reads, proximity · Difficulty: easy
 
 ## Scope
 - **FR:** search businesses (keyword, category, location, rating); view a business; leave a review (rating + text). Below the line: photos, reservations, messaging.
